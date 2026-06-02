@@ -1,0 +1,6 @@
+{
+  "name": "Stopwatch Log",
+  "description": "An offline stopwatch tracking tool built with Room Database to register task duration and interval timings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
